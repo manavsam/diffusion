@@ -1,0 +1,1 @@
+echo "start";apt-get install sox ffmpeg libcairo2 libcairo2-dev;apt-get install texlive-full;cd diffusion;pip install --upgrade -r requirements.txt;echo "done";
